@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455880964 source:e:\lavori laboratorio informatica!\lavori programmazione c_c++\informatica pentamestre\watermap\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+
